@@ -15,6 +15,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Instabug",
-            path: "Instabug.framework")
+            path: "Instabug.xcframework")
     ]
 )
